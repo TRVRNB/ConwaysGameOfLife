@@ -1,6 +1,5 @@
 """
 CONWAY'S GAME OF LIFE
-Travis Renberg
 Started 10/3/24
 Ended 1/8/2025
 font: 22 pt nirmala ui
